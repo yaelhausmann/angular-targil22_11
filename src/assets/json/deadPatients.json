@@ -1,0 +1,188 @@
+[
+  {
+    "date": "2021-01-01T00:00:00.000Z",
+    "amount": 34,
+    "total": 3406,
+    "countDeadAvg7days": 24
+  },
+  {
+    "date": "2021-01-02T00:00:00.000Z",
+    "amount": 27,
+    "total": 3433,
+    "countDeadAvg7days": 26
+  },
+  {
+    "date": "2021-01-03T00:00:00.000Z",
+    "amount": 26,
+    "total": 3459,
+    "countDeadAvg7days": 27
+  },
+  {
+    "date": "2021-01-04T00:00:00.000Z",
+    "amount": 38,
+    "total": 3497,
+    "countDeadAvg7days": 28
+  },
+  {
+    "date": "2021-01-05T00:00:00.000Z",
+    "amount": 23,
+    "total": 3520,
+    "countDeadAvg7days": 28
+  },
+  {
+    "date": "2021-01-06T00:00:00.000Z",
+    "amount": 43,
+    "total": 3563,
+    "countDeadAvg7days": 28
+  },
+  {
+    "date": "2021-01-07T00:00:00.000Z",
+    "amount": 48,
+    "total": 3611,
+    "countDeadAvg7days": 32
+  },
+  {
+    "date": "2021-01-08T00:00:00.000Z",
+    "amount": 46,
+    "total": 3657,
+    "countDeadAvg7days": 34
+  },
+  {
+    "date": "2021-01-09T00:00:00.000Z",
+    "amount": 20,
+    "total": 3677,
+    "countDeadAvg7days": 35
+  },
+  {
+    "date": "2021-01-10T00:00:00.000Z",
+    "amount": 43,
+    "total": 3720,
+    "countDeadAvg7days": 34
+  },
+  {
+    "date": "2021-01-11T00:00:00.000Z",
+    "amount": 28,
+    "total": 3748,
+    "countDeadAvg7days": 37
+  },
+  {
+    "date": "2021-01-12T00:00:00.000Z",
+    "amount": 55,
+    "total": 3803,
+    "countDeadAvg7days": 35
+  },
+  {
+    "date": "2021-01-13T00:00:00.000Z",
+    "amount": 57,
+    "total": 3860,
+    "countDeadAvg7days": 40
+  },
+  {
+    "date": "2021-01-14T00:00:00.000Z",
+    "amount": 59,
+    "total": 3919,
+    "countDeadAvg7days": 42
+  },
+  {
+    "date": "2021-01-15T00:00:00.000Z",
+    "amount": 52,
+    "total": 3971,
+    "countDeadAvg7days": 44
+  },
+  {
+    "date": "2021-01-16T00:00:00.000Z",
+    "amount": 47,
+    "total": 4018,
+    "countDeadAvg7days": 44
+  },
+  {
+    "date": "2021-01-17T00:00:00.000Z",
+    "amount": 56,
+    "total": 4074,
+    "countDeadAvg7days": 48
+  },
+  {
+    "date": "2021-01-18T00:00:00.000Z",
+    "amount": 46,
+    "total": 4120,
+    "countDeadAvg7days": 50
+  },
+  {
+    "date": "2021-01-19T00:00:00.000Z",
+    "amount": 43,
+    "total": 4163,
+    "countDeadAvg7days": 53
+  },
+  {
+    "date": "2021-01-20T00:00:00.000Z",
+    "amount": 57,
+    "total": 4220,
+    "countDeadAvg7days": 51
+  },
+  {
+    "date": "2021-01-21T00:00:00.000Z",
+    "amount": 47,
+    "total": 4267,
+    "countDeadAvg7days": 51
+  },
+  {
+    "date": "2021-01-22T00:00:00.000Z",
+    "amount": 65,
+    "total": 4332,
+    "countDeadAvg7days": 49
+  },
+  {
+    "date": "2021-01-23T00:00:00.000Z",
+    "amount": 52,
+    "total": 4384,
+    "countDeadAvg7days": 51
+  },
+  {
+    "date": "2021-01-24T00:00:00.000Z",
+    "amount": 75,
+    "total": 4459,
+    "countDeadAvg7days": 52
+  },
+  {
+    "date": "2021-01-25T00:00:00.000Z",
+    "amount": 60,
+    "total": 4519,
+    "countDeadAvg7days": 55
+  },
+  {
+    "date": "2021-01-26T00:00:00.000Z",
+    "amount": 53,
+    "total": 4572,
+    "countDeadAvg7days": 57
+  },
+  {
+    "date": "2021-01-27T00:00:00.000Z",
+    "amount": 61,
+    "total": 4633,
+    "countDeadAvg7days": 58
+  },
+  {
+    "date": "2021-01-28T00:00:00.000Z",
+    "amount": 49,
+    "total": 4682,
+    "countDeadAvg7days": 59
+  },
+  {
+    "date": "2021-01-29T00:00:00.000Z",
+    "amount": 45,
+    "total": 4727,
+    "countDeadAvg7days": 59
+  },
+  {
+    "date": "2021-01-30T00:00:00.000Z",
+    "amount": 38,
+    "total": 4765,
+    "countDeadAvg7days": 56
+  },
+  {
+    "date": "2021-01-31T00:00:00.000Z",
+    "amount": 51,
+    "total": 4816,
+    "countDeadAvg7days": 54
+  }
+]

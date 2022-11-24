@@ -1,0 +1,102 @@
+[
+  {
+    "age_group": "5-11",
+    "percent_vaccinated_first_dose": 25.2,
+    "persent_vaccinated_second_dose": 17.8,
+    "persent_vaccinated_third_dose": 0.2,
+    "persent_vaccinated_fourth_dose": 0,
+    "vaccinated_amount_perc": 0.4,
+    "not_vaccinated_amount_perc": 80.9,
+    "vaccinated_expired_amount_perc": 18.7
+  },
+  {
+    "age_group": "12-15",
+    "percent_vaccinated_first_dose": 65.7,
+    "persent_vaccinated_second_dose": 54.7,
+    "persent_vaccinated_third_dose": 15,
+    "persent_vaccinated_fourth_dose": 0.1,
+    "vaccinated_amount_perc": 0.9,
+    "not_vaccinated_amount_perc": 46.6,
+    "vaccinated_expired_amount_perc": 52.6
+  },
+  {
+    "age_group": "16-19",
+    "percent_vaccinated_first_dose": 89.3,
+    "persent_vaccinated_second_dose": 78.3,
+    "persent_vaccinated_third_dose": 46,
+    "persent_vaccinated_fourth_dose": 0.4,
+    "vaccinated_amount_perc": 0.6,
+    "not_vaccinated_amount_perc": 23.9,
+    "vaccinated_expired_amount_perc": 75.5
+  },
+  {
+    "age_group": "20-29",
+    "percent_vaccinated_first_dose": 85.7,
+    "persent_vaccinated_second_dose": 77.2,
+    "persent_vaccinated_third_dose": 54.9,
+    "persent_vaccinated_fourth_dose": 1,
+    "vaccinated_amount_perc": 0.7,
+    "not_vaccinated_amount_perc": 12.7,
+    "vaccinated_expired_amount_perc": 86.5
+  },
+  {
+    "age_group": "30-39",
+    "percent_vaccinated_first_dose": 89,
+    "persent_vaccinated_second_dose": 82.1,
+    "persent_vaccinated_third_dose": 59.8,
+    "persent_vaccinated_fourth_dose": 2.5,
+    "vaccinated_amount_perc": 1.1,
+    "not_vaccinated_amount_perc": 10.4,
+    "vaccinated_expired_amount_perc": 88.6
+  },
+  {
+    "age_group": "40-49",
+    "percent_vaccinated_first_dose": 90.6,
+    "persent_vaccinated_second_dose": 84.8,
+    "persent_vaccinated_third_dose": 67.2,
+    "persent_vaccinated_fourth_dose": 4.1,
+    "vaccinated_amount_perc": 1.6,
+    "not_vaccinated_amount_perc": 8.5,
+    "vaccinated_expired_amount_perc": 89.9
+  },
+  {
+    "age_group": "50-59",
+    "percent_vaccinated_first_dose": 91.3,
+    "persent_vaccinated_second_dose": 86.6,
+    "persent_vaccinated_third_dose": 73.4,
+    "persent_vaccinated_fourth_dose": 8.4,
+    "vaccinated_amount_perc": 2.9,
+    "not_vaccinated_amount_perc": 5.8,
+    "vaccinated_expired_amount_perc": 91.3
+  },
+  {
+    "age_group": "60-69",
+    "percent_vaccinated_first_dose": 93.2,
+    "persent_vaccinated_second_dose": 90.4,
+    "persent_vaccinated_third_dose": 81,
+    "persent_vaccinated_fourth_dose": 35.2,
+    "vaccinated_amount_perc": 7,
+    "not_vaccinated_amount_perc": 7.4,
+    "vaccinated_expired_amount_perc": 85.6
+  },
+  {
+    "age_group": "70-79",
+    "percent_vaccinated_first_dose": 92.1,
+    "persent_vaccinated_second_dose": 90.7,
+    "persent_vaccinated_third_dose": 87.5,
+    "persent_vaccinated_fourth_dose": 56.1,
+    "vaccinated_amount_perc": 14.9,
+    "not_vaccinated_amount_perc": 1.3,
+    "vaccinated_expired_amount_perc": 83.7
+  },
+  {
+    "age_group": "80+",
+    "percent_vaccinated_first_dose": 95.4,
+    "persent_vaccinated_second_dose": 93.3,
+    "persent_vaccinated_third_dose": 87.8,
+    "persent_vaccinated_fourth_dose": 59.9,
+    "vaccinated_amount_perc": 16.2,
+    "not_vaccinated_amount_perc": 4.9,
+    "vaccinated_expired_amount_perc": 78.9
+  }
+]

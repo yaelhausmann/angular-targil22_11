@@ -1,0 +1,14 @@
+#full-page{
+  background-color: #b7c8cf;
+  min-height: 100vh;
+  .main-contain{
+    display:flex;
+    &.is_menu{
+      margin-right: 300px;
+    }
+  }
+  .contain-graph{
+    width: 37%;
+    margin: 30px 10px;
+  }
+}

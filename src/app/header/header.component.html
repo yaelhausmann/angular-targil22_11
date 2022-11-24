@@ -1,0 +1,44 @@
+<header>
+  <div class="main-container">
+    <div class="left-side">{{ currentDate | date: "M/d/yy, h:mm "}}עדכון אחרון </div>
+    <div class="right-container">
+      <div>פורטל ה-BI של משרד הבריאות</div>
+      <img src="assets/header.png" width="100px">
+      <div (click)="getShowMenu(true)"  *ngIf="!showMenu" class="menu-opener">MENU</div>
+      <span class="close" (click)="getShowMenu(false)" *ngIf="showMenu">x</span>
+      <div class="dropdown" [hidden]="!showMenu">
+        <div class="top">
+          <hr class="hr">
+          <div> <img src="assets/bayit.png" routerLink="/dashboard"></div>
+          <hr class="hr">
+        </div>
+        <div class="menu-title">
+          <span (click)="showSubMenu1 = !showSubMenu1" [ngClass]="{'open': showSubMenu1}" class="span"><</span>
+          <span>קורונה</span>
+        </div>
+        <ng-container *ngIf="showSubMenu1">
+          <div class="menu-sub">
+            <span routerLink="/dashboard/chartsVaccinations">דוח חיסון שלישי</span>
+          </div>
+          <div class="menu-sub">
+            <span routerLink="/dashboard/chartsInfected" >דוח ממוצע מאומתים שבועי</span>
+          </div>
+          <div class="menu-sub">
+            <span routerLink="/dashboard/chartsDeadPatients" >דוח "נפטרים" יומי </span>
+          </div>
+        </ng-container>
+        <div class="menu-title">
+          <span class="span" (click)="showSubMenu2 = !showSubMenu2" [ngClass]="{'open': showSubMenu2}"><</span>
+          <span>פוליו</span>
+        </div>
+        <div class="menu-title">
+          <span class="span" (click)="showSubMenu3 = !showSubMenu3" [ngClass]="{'open': showSubMenu3}"><</span>
+          <span>סקרי דעת קהל</span>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+</header>
+

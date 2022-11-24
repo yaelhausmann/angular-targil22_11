@@ -1,0 +1,8 @@
+<div class="contain">
+  <app-header *ngIf="!isPageHome"
+              [showMenu]= isShowMenu
+              (isShowMenu)="isShowMenu = $event"
+  ></app-header>
+  <h1>דוח ממוצע מאומתים שבועי</h1>
+  <div echarts [options]="chartOption"  *ngIf="typeChart === 'average-infected'"  class="demo-chart" [ngClass]="{'is_menu':isShowMenu, 'is_margin':!isPageHome}"></div>
+</div>

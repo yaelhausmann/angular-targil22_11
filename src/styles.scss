@@ -1,1 +1,11 @@
-/* You can add global styles to this file, and also import other style files */
+.demo-chart{background-color: white;
+  &.is_margin{
+    margin-top: 75px;
+  }
+  &.is_menu{
+    margin-right: 180px;
+  }
+}
+h1{
+  text-align: center;
+}

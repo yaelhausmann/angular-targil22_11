@@ -1,0 +1,8 @@
+<div class="contain">
+  <app-header *ngIf="!isPageHome"
+              [showMenu]= isShowMenu
+              (isShowMenu)="isShowMenu = $event"
+  ></app-header>
+  <h1 >דוח חיסון שלישי</h1>
+<div echarts [options]="chartOption" class="demo-chart" [ngClass]="{'is_menu':isShowMenu, 'is_margin':!isPageHome}"></div>
+</div>

@@ -1,0 +1,11 @@
+<div id="full-page">
+<app-header  [isPageHome] = isPageHome (isShowMenu)="isShowMenu = $event"  [showMenu]= isShowMenu></app-header>
+  <div class="main-contain" [ngClass]="{'is_menu':isShowMenu}">
+<div class="contain-graph">
+  <app-chart-dead-patients [isPageHome] = isPageHome></app-chart-dead-patients></div>
+  <div class="contain-graph">
+      <app-chart-infected [isPageHome] = isPageHome></app-chart-infected></div>
+    <div class="contain-graph">
+      <app-graph-vaccination [isPageHome] = isPageHome></app-graph-vaccination></div>
+  </div>
+</div>
